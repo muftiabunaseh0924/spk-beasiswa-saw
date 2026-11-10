@@ -213,7 +213,7 @@ Dokumentasi tahapan dan perkembangan proyek akan diperbarui secara berkala melal
 <p align="center">
   <b>SPK Seleksi Penerima Beasiswa</b>
   <br>
-  Developed with ❤️ by Mufti Abu Naseh
+  Developed with by Mufti Abu Naseh
   <br>
   Based on the original project by Bagasksm.
 </p>
