@@ -551,7 +551,7 @@ Struktur di atas merupakan rancangan dokumentasi. Struktur kode yang sudah ada t
 
 | Tahap | Nama Tahap | Status |
 |---|---|---|
-| 0 | Audit dan Persiapan Proyek | Belum dimulai |
+| 0 | Audit dan Persiapan Proyek | Selesai |
 | 1 | Analisis Kebutuhan Sistem | Belum dimulai |
 | 2 | Perancangan Sistem | Belum dimulai |
 | 3 | Persiapan Database dan Dataset | Belum dimulai |
