@@ -120,7 +120,7 @@ Sistem menggunakan lima kriteria berikut:
 **C3 - Nilai Akademik**
 - SMA/SMK menggunakan rata-rata nilai rapor skala 0–100.
 - D3/S1 menggunakan IPK yang dikonversi ke skala 0–100.
-- Jika IPK menggunakan skala 4, konversi awal yang digunakan adalah IPK dikalikan 20.
+- Jika IPK menggunakan skala 4, konversi yang digunakan adalah IPK dikalikan 25 (diubah pada Tahap 2, lihat docs/README-Tahap-02-Perancangan.md).
 - Termasuk kriteria Benefit.
 
 **C4 - Prestasi**
@@ -553,7 +553,7 @@ Struktur di atas merupakan rancangan dokumentasi. Struktur kode yang sudah ada t
 |---|---|---|
 | 0 | Audit dan Persiapan Proyek | Selesai |
 | 1 | Analisis Kebutuhan Sistem | Selesai |
-| 2 | Perancangan Sistem | Belum dimulai |
+| 2 | Perancangan Sistem | Selesai |
 | 3 | Persiapan Database dan Dataset | Belum dimulai |
 | 4 | Implementasi Halaman Publik | Belum dimulai |
 | 5 | Implementasi Halaman Admin | Belum dimulai |

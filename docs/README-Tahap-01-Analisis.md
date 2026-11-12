@@ -108,7 +108,7 @@ Aturan bisnis tambahan dari README-PROJECT:
 | FS-01 | Nomor pendaftaran dibuat otomatis dan tidak dapat duplikat |
 | FS-02 | Penanda data simulasi agar dapat dibedakan dari data nyata (B6) |
 | FS-03 | Perhitungan SAW sesuai rumus README-PROJECT bagian 6 dengan bobot C1=0,30; C2=0,20; C3=0,25; C4=0,15; C5=0,10 |
-| FS-04 | Konversi nilai akademik D3/S1: IPK skala 4 dikali 20 menjadi skala 0-100 |
+| FS-04 | Konversi nilai akademik D3/S1: IPK skala 4 dikali 25 menjadi skala 0-100 (diubah dari 20 pada Tahap 2) |
 | FS-05 | File unggahan tersimpan aman dan hanya dapat diakses admin |
 
 ## 8. Kebutuhan Nonfungsional
