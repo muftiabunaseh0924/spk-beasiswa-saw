@@ -554,7 +554,7 @@ Struktur di atas merupakan rancangan dokumentasi. Struktur kode yang sudah ada t
 | 0 | Audit dan Persiapan Proyek | Selesai |
 | 1 | Analisis Kebutuhan Sistem | Selesai |
 | 2 | Perancangan Sistem | Selesai |
-| 3 | Persiapan Database dan Dataset | Belum dimulai |
+| 3 | Persiapan Database dan Dataset | Selesai |
 | 4 | Implementasi Halaman Publik | Belum dimulai |
 | 5 | Implementasi Halaman Admin | Belum dimulai |
 | 6 | Implementasi Metode SAW | Belum dimulai |
